@@ -2,7 +2,7 @@
 
 ---
 ## About Project:
-Setas Estate is a token-based wep page where anyone can demonstrate his/her estate project whether it is under construction or real built project. Project owners can demand tokens from web-site admin or share their tokens to anyone. Last but not least anyone can fund the any project on the site.
+Setas Estate is a token-based wep page where anyone can demonstrate his/her estate project whether it is under construction or real built project. Project owners can demand tokens from web-site admin or share their tokens to anyone. In this platform anyone can fund any project on the site.
 
 ##### Video Link: https://www.loom.com/s
 ---
