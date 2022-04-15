@@ -10,16 +10,19 @@ Setas Estate is a token-based wep page where anyone can demonstrate his/her esta
 
 * Clone the repository.
 * After, to install all necessary packages run;
-````
-yarn````
+```
+yarn
+```
 
 * Smart contract is located in the /assembly folders. To build the contract, to get the .wasm file , and deploy the contract simultenously run;
 ```
-yarn dev```
+yarn dev
+```
 
 * Then, export the contract;
 ``` 
-export CONTRACT=<Your-dev-account>```
+export CONTRACT=<Your-dev-account>
+```
 
 * Explore the contract with its functions.
 ---
