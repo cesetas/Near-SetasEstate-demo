@@ -1,0 +1,32 @@
+
+near call $CONTRACT fundProject '{"projectId":3144446818}' --accountId dev-1649863331229-90936224986395 --amount 10 --gas 300000000000000
+
+near call $CONTRACT distributeToken '{"from":"setas.testnet", "to":"dev-1649863331229-90936224986395", "tokens":"500"}' --accountId setas.testnet  
+
+near call $CONTRACT sendToken '{"to":"dev-1649863331229-90936224986395", "tokens":"1000"}' --accountId setas.testnet
+
+near call dev-1649863331229-90936224986395 create '{"title":"Patika Sitesi", "address":"Eryaman5", "type":"Residential", "price":"3000000", "size":500, "status":"Done", "photo":"http://.."}' --accountId setas.testnet
+
+near call dev-1649863331229-90936224986395 initTokens '{"owner":"setas.testnet"}' --accountId dev-1649863331229-90936224986395   
+
+near call $CONTRACT update '{"projectId":2367220494, "update":{"title":"Bussiness Tower", "address":"Yenimahalle2", "type":"2", "price":"", "size":3000, "status":"", "photo":""}}' --account-id $CONTRACT
+near call $CONTRACT update '{"projectId":2367220494, "update":{"address":"Yenimahalle2", "size":3000}}' --account-id $CONTRACT
+
+near view $CONTRACT getAllProjects '{"offset":0, "end":20}' --accountId $CONTRACT   
+
+near view $CONTRACT showTokens '{"owner":""}' --accountId $CONTRACT
+
+near view $CONTRACT getById '{"projectId":222}' --accountId $CONTRACT
+
+near view $CONTRACT getAllProjects '{"offset":0, "end":20}' --accountId $CONTRACT   
+
+near call $CONTRACT del '{"projectId":222}' --accountId $CONTRACT
+
+./scripts/1.dev-deploy.sh
+
+echo $CONTRACT
+
+30 000 000 000 001
+
+2 428 131 177 797
+
