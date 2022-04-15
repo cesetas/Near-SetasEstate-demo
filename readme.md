@@ -1,9 +1,5 @@
 # SETAS ESTATE
 
-What is this project about (explain your project in one paragraph)
-Tell us how to clone and build your project
-Explain each function that your contract has and show us how to run them
-Also, show us how to use your scripts
 ---
 ## About Project:
 Setas Estate is a token-based wep page where anyone can demonstrate his/her estate project whether it is under construction or real built project. Project owners can demand tokens from web-site admin or share their tokens to anyone. Last but not least anyone can fund the any project on the site.
