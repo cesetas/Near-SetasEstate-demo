@@ -1,10 +1,10 @@
 # SETAS ESTATE
 
 ## About Project:
-Setas Estate is a token-based project in where anyone can demonstrate his/her estate project whether it is under construction or built project. Project owners can demand tokens from project-admin or share their tokens to anyone. On the other hand all estate projects are fundable therefore in this platform anyone can fund any project.
+Setas Estate is a token-based project in where anyone can demonstrate his/her estate project whether it is under construction or built project. Project owners can demand tokens from project-admin or share their tokens to anyone. On the other hand all demonstrated estate projects are fundable therefore in this platform anyone can fund any project.
 
 ##### Video Link: 
-![Project Description Video](https://www.loom.com/share/d8bdf57690c54fd4b05837676d6cdd69)
+[Project Description Video](https://www.loom.com/share/d8bdf57690c54fd4b05837676d6cdd69)
 ---
 ## How to Build the Project:
 
